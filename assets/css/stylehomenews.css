@@ -1,0 +1,19 @@
+.img_news {
+	width: 200px; 
+	height: 200px;
+}
+
+.anchor_news {
+	display: block;
+	float: right;
+	margin-right:;
+	color: black;
+	padding-top: 20px;
+	padding-bottom: 30px;
+}
+
+figure {
+	display: block;
+	width: 500px;
+	text-align: justify;
+}
