@@ -1,3 +1,8 @@
+/* Body background image */
+body {
+	background-image: url("assets/pictures/background.jpg");
+}
+
 /* Flexbox social buttons */
 #social-container {
     display: flex;
