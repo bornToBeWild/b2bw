@@ -1,10 +1,13 @@
 <?php include('includes/header.php'); ?>
 <?php include('includes/home-social.php'); ?>
+<?php include('includes/navbar.php'); ?>
 <?php include('includes/home-section-header.php'); ?>
+
 
 <body>
 
-  <section class="contact">
+  <div class="white_box">
+    <section class="contact">
     <h1>Contact us</h1>
     <p>Please contact us for any information.</p>
   </section>
@@ -13,7 +16,7 @@
 
         <!-- Name-->
         <div class="form-group">
-          <label class="col-md-4 control-label" for="textinput">name</label>
+          <label class="col-md-4 control-label" for="textinput">Name</label>
           <div class="col-md-4">
             <input id="textinput" name="textinput" placeholder="name" class="form-control input-md" required="" type="text">
 
@@ -22,7 +25,7 @@
 
         <!-- Email-->
         <div class="form-group">
-          <label class="col-md-4 control-label" for="textinput">email</label>
+          <label class="col-md-4 control-label" for="textinput">Email</label>
           <div class="col-md-4">
             <input id="textinput" name="textinput" placeholder="email" class="form-control input-md" required="" type="text">
 
@@ -64,5 +67,7 @@
 
       </fieldset>
     </form>
+  </div>
 </body>
 <?php include('includes/footer.php'); ?>
+
