@@ -1,5 +1,6 @@
 <?php include('includes/header.php'); ?>
 <?php include('includes/home-social.php'); ?>
+<?php include('includes/navbar.php'); ?>
 <?php include('includes/home-section-header.php'); ?>
 
 <body>
