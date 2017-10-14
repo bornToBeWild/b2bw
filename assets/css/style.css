@@ -1,6 +1,8 @@
 /* Body background image */
 body {
 	background-image: url("assets/pictures/background.jpg");
+	width: 100vw;
+	height: 100vh;
 }
 
 /* Flexbox social buttons */
@@ -30,7 +32,12 @@ body {
 }
 
 .cover-section img {
-	width: auto;
-	height: 700px;
-	margin-left: 100px;
+	width: 100vw;
+	margin: 0px;
+}
+
+.contact{
+	padding-top: 100px;
+	text-align: center;
+	justify-content: center;
 }
