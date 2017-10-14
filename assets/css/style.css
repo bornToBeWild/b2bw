@@ -3,7 +3,8 @@
     display: flex;
     flex-direction: row;
     margin-top: 10px;
-    margin-left: 130px;
+    margin-left: 100px;
+    margin-bottom: 5px;
 }
 
 .social:nth-child(1) { width: 45px;}
@@ -17,8 +18,14 @@
 /* Hover on social buttons */
 .social:hover {opacity: 0.7;}
 
-/*  Images sizing */
-img {
+/*  Images sizing social icones */
+.social-buttons-section img {
 	width: 50px;
 	height: 50px;
+}
+
+.cover-section img {
+	width: auto;
+	height: 700px;
+	margin-left: 100px;
 }
