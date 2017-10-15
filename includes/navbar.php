@@ -14,7 +14,7 @@
             <li><a href="#home">Home</a></li>
             <li><a href="#bio">About us</a></li>
             <li><a href="#news">News</a></li>
-            <li><a href="#mediat">Medias</a></li>
+            <li><a href="#media">Media</a></li>
             <li><a href="#contact">Contact us</a></li>
           </ul>
         </div><!--/.nav-collapse -->
