@@ -1,3 +1,4 @@
+
 /* Navbar */
 .navbar{
 	border-radius: 0px;
@@ -97,6 +98,21 @@
 .seeus a:hover{
 	color: #5FC0C5;
 	text-decoration: none;
+}
+
+/*  Youtube video */
+
+#tubecontainer {
+	width:100%;
+    float:left;
+    text-align:center;
+    background-color: black;
+}
+
+div.hometube iframe {
+	width: 640px;
+    height: 360px;
+    margin-top: 20px;	
 }
 
 .contact{
