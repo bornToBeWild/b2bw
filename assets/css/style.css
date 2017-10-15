@@ -1,6 +1,16 @@
-/* Body background image */
-body {
-	background-image: url("assets/pictures/background.jpg");
+/* Navbar */
+.navbar-inverse .navbar-brand {
+	color: #5FC0C5;
+	font-family: 'Amatic SC';
+	font-size: 28px;
+	font-weight: 900;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+	color:#5FC0C5;
+	font-family: 'Amatic SC';
+	font-size: 24px;
+	font-weight: 900;
 }
 
 /* Flexbox social buttons */
@@ -30,7 +40,14 @@ body {
 }
 
 .cover-section img {
-	width: auto;
-	height: 700px;
-	margin-left: 100px;
+	width: 100vw;
+	margin: 0px;
 }
+
+.contact{
+	padding-top: 50px;
+	text-align: center;
+	justify-content: center;
+	z-index: 1;
+}
+
