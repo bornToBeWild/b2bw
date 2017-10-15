@@ -1,4 +1,9 @@
 /* Navbar */
+.navbar{
+	border-radius: 0px;
+	margin-bottom: 0px;
+}
+
 .navbar-inverse .navbar-brand {
 	color: #5FC0C5;
 	font-family: 'Amatic SC';
