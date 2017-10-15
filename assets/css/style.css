@@ -44,9 +44,59 @@
 	height: 50px;
 }
 
+/*  Images sizing & position cover */
 .cover-section img {
 	width: 100vw;
 	margin: 0px;
+	position: relative;
+}
+
+/*  p in cover section*/
+.cover-section p {
+    margin: 0 0 0px;
+}
+
+/*  a in cover section*/
+.cover-section a {
+    color: #f2f7d9;
+}
+/*  p "ON TOUR" */
+.ontour {
+	position: absolute;
+	top: 760px;
+	right: 200px;
+	font-family: 'Quicksand';
+	font-size: 60px;
+	text-align: right;
+	font-weight: bold;
+	text-transform: uppercase;
+	background-color: black;
+	color: #f2f7d9;
+	width: 315px;
+	padding-right: 15px;
+	margin: 0px;
+}
+
+/*  p "SEE US..."*/
+.seeus {
+	position: absolute;
+	top: 850px;
+	right: 200px;
+	font-family: 'Quicksand';
+	font-size: 30px;
+	text-align: right;
+	font-weight: bold;
+	text-transform: uppercase;
+	background-color: black;
+	color: #f2f7d9;
+	width: 970px;
+	padding-right: 15px;
+}
+
+/*  p "SEE US..." when hover*/
+.seeus a:hover{
+	color: #5FC0C5;
+	text-decoration: none;
 }
 
 .contact{
