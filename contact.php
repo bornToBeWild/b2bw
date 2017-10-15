@@ -68,7 +68,7 @@
       </fieldset>
     </form>
   </div>
-
-</body>
 <?php include('includes/footer.php'); ?>
+</body>
+
 
