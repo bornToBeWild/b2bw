@@ -1,0 +1,28 @@
+footer {
+	background-color: black;
+	opacity: 0.8;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+}
+
+.flex_container {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.with_love {
+	text-align: center;
+}
+
+li, p {color: white;}
+
+.heart {
+	color: red;
+	font-size: 20px;
+}
+
+ul, li {list-style: none;}
