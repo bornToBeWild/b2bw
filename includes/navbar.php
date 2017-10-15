@@ -12,7 +12,7 @@
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav navbar_custom">
             <li><a href="#home">Home</a></li>
-            <li><a href="#bio">About us</a></li>
+            <li><a href="#about">About us</a></li>
             <li><a href="#news">News</a></li>
             <li><a href="#media">Media</a></li>
             <li><a href="#contact">Contact us</a></li>
@@ -25,6 +25,5 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js">
 </script> 
 
-</script>
 <!-- Latest compiled and minified JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
