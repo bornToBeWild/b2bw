@@ -2,15 +2,15 @@
 	
 	<div class="flex_container">
 
-			<ul class="box">
-				<li>Home</li>
-				<li>About Us</li>
-				<li>News</li>
-				<li>Medias</li>
+			<ul class="box1">
+				<li><a href="home">Home</a></li>
+				<li><a href="about">About Us</a></li>
+				<li><a href="news">News</a></li>
+				<li><a href="home">Medias</a></li>
 			</ul>
 		
 			<ul class="box">
-				<li>Contact Us</li>
+				<li><a href="contact">Contact Us</a></li>
 				<li>FAQ</li>
 				<li>Legal Mentions</li>
 			</ul>
@@ -21,13 +21,13 @@
 		</div>
 
 			<ul class="box">
-				<li>Facebook</li>
-				<li>Instagram</li>
+				<li><a href="facebook">Facebook</a></li>
+				<li><a href="instagram">Instagram</a></li>
 			</ul>
 
 			<ul class="box">
-				<li>Twitter</li>
-				<li>Spotify</li>
+				<li><a href="twitter">Twitter</a></li>
+				<li><a href="spotify">Spotify</a></li>
 			</ul>
 
 	</div>
