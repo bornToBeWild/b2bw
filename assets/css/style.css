@@ -153,4 +153,34 @@ li, p {color: white;}
 	font-size: 20px;
 }
 
-ul, li {list-style: none;}
+ul, li {
+	list-style: none;
+	font-size: 1.1em;
+	font-family: 'Amatic SC';
+	color: #5FC0C5;
+}
+
+a {color: #5FC0C5;}
+
+a:hover {
+	text-decoration: none;
+	color: #5fa6c5;
+}
+
+a:active {
+	color: #5FC0C5;
+	text-decoration: none;
+}
+
+a:focus {
+	color: #5FC0C5;
+	text-decoration: none;
+}
+
+p {
+	font-size: 1.1em;
+	color: #5FC0C5;
+	font-family: 'Amatic SC';
+}
+
+.box1 {padding-top: 5px;}
