@@ -4,7 +4,7 @@
 
 		<div class="hpnews_container">
 
-			<figure>
+			<figure class="picture_wild">
 				<img src="images/Wild1.jpg" alt="Steppenwolf">
 				<figcaption>
 					<p>Born to be Wild Announces Their first Tour: Europe!</p>
@@ -14,7 +14,7 @@
 				</figcaption>
 			</figure>
 
-			<figure>
+			<figure class="picture_wild">
 				<img src="images/Wild2.jpg" alt="Lou Reed">
 				<figcaption>
 					<p>New pictures online!</p>
@@ -24,7 +24,7 @@
 				</figcaption>
 			</figure>
 
-			<figure>
+			<figure class="picture_wild">
 				<img src="images/Wild3.jpg" alt="LP">
 				<figcaption>
 					<p>Born to be Wild Merchandise</p>
@@ -34,7 +34,7 @@
 				</figcaption>
 			</figure>
 
-			<figure>
+			<figure class="picture_wild">
 				<img src="images/Wild4.jpg" alt="Wild Records">
 				<figcaption>
 					<p>Official Born to be Wild web site launches!</p>
