@@ -72,5 +72,5 @@
 </fieldset>
 </form>
 </section>
-</body>
 <?php include('includes/footer.php'); ?>
+</body>
