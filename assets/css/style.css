@@ -121,12 +121,58 @@ div.hometube iframe {
     margin-top: 20px;	
 }
 
+/*contact page */
 .contact{
 	padding-top: 50px;
 	text-align: center;
 	justify-content: center;
-	z-index: 1;
 }
+
+/* Agenda */
+
+.agenda {
+  width: 300px;
+}
+
+.agenda p {
+  font-family: 'Abel';
+  font-size: 1.5em;
+}
+
+.tour_pair {
+  background-color: white;
+}
+
+.tour_pair p {
+  color: black;
+}
+
+.tour_impair {
+  background-color: black;
+}
+
+.tour_impair p {
+  color: white;
+}
+
+.date {
+  font-size: 1.7em;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.more {
+  display: none;
+}
+
+.see {
+  color: black;
+  font-family: 'Abel';
+  font-style: italic;
+  font-weight: 700;
+  font-size: 1.2em;
+}
+
 
 /*  Footer */
 
