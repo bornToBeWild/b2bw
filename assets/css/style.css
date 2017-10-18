@@ -164,7 +164,7 @@ a {color: #5FC0C5;}
 
 a:hover {
 	text-decoration: none;
-	color: #5fa6c5;
+	color: white;
 }
 
 a:active {
@@ -177,13 +177,15 @@ a:focus {
 	text-decoration: none;
 }
 
-p {
+footer {
 	font-size: 1.1em;
 	color: #5FC0C5;
 	font-family: 'Amatic SC';
 }
 
 .box1 {padding-top: 5px;}
+
+.with_love .withloveText {color: #5FC0C5;}
 
 /*  Homepage NEWS */
 
