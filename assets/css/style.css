@@ -1,3 +1,7 @@
+/* Body */
+
+body { background-image: url(../../assets/pictures/background.jpg);}
+
 /* Navbar */
 .navbar{
 	border-radius: 0px;
@@ -19,12 +23,15 @@
 }
 
 /* Flexbox social buttons */
+
+.social-buttons-section{ background-color: white; }
+
 #social-container {
     display: flex;
     flex-direction: row;
-    margin-top: 10px;
-    margin-left: 100px;
-    margin-bottom: 5px;
+    padding-top: 5px;
+    margin-left: 140px;
+    padding-bottom: 5px;
 }
 
 .social:nth-child(1) { width: 45px;}
@@ -106,11 +113,6 @@
 	width:100%;
     float:left;
     text-align:center;
-    background-image: url(../assets/pictures/feuilles.jpg);
-}
-
-body {
-	background-image: url(../assets/pictures/background.jpg);
 }
 
 div.hometube iframe {
@@ -145,8 +147,6 @@ footer {
 .with_love {
 	text-align: center;
 }
-
-li, p {color: white;}
 
 .heart {
 	color: red;
