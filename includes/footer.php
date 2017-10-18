@@ -16,8 +16,7 @@
 			</ul>
 
 		<div class="with_love">
-			<p>Made with <span class="heart">❤</span> by B2BW</p>
-			<p>2017</p>
+			<p class="withloveText">Made with <span class="heart">❤</span> by B2BW<br />2017</p>
 		</div>
 
 			<ul class="box">
