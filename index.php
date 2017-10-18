@@ -1,4 +1,3 @@
-
 <?php
 include ("includes/header.php");
 include("includes/home-social.php");
