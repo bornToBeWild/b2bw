@@ -101,6 +101,10 @@ body { background-image: url(../../assets/pictures/background.jpg);}
 
 /*  Youtube video */
 
+.col-md-offset-2 {
+    margin-left: 0;
+}
+
 #tubecontainer {
 	width:100%;
     float:left;
