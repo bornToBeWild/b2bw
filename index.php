@@ -7,7 +7,7 @@
 		<!-- Immport Bootstrap library-->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
-		<link rel="stylesheet" href="assets/css/footer.css" />
+		<link rel="stylesheet" href="assets/css/style.css" />
 
 		<!--Favicon-->
 		<link rel="shortcut icon" href="assets/pictures/faviconB.ico" type="image/x-icon">
@@ -27,7 +27,7 @@
 		
 		</header>
 
-			<!--Footer begins here-->
+			<!--footer begins here -->
 			<?php include 'includes/footer.php'?>
 
 
