@@ -28,14 +28,14 @@
 				<div class="col-md-4 col-xs-offset-1 col-xs-10 col_member">
 					<figure class="member1">
 			  			<img src="" alt="">
-			  			<figcaption></figcaption>
+			  			<figcaption><br /></figcaption>
 			  		</figure>
 				</div>
 
 				<div class="col-md-offset-4 col-xs-offset-1 col-xs-10 col_member">
 					<figure class="member2">
 			  			<img src="" alt="">
-			  			<figcaption></figcaption>
+			  			<figcaption>Val </figcaption>
 			  		</figure>
 				</div>
 			</div>
@@ -63,5 +63,14 @@
 
   </div>
 
+<?php include('includes/footer.php'); ?>
 
+</body>
+
+ <!-- JQuery -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js">
+</script> 
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
