@@ -13,8 +13,8 @@
   	</section>
 
   	<section class="story">
-  		<p></p>
-  		<p></p>
+  		<p><span class="everything">Everything happens for a reason.</span> When we met during a casual Halloween party in 2013, we immediatly connected with each others. Four musicians wearing animal costumes and craving for an opportunity to let our inner animals out - how could we ignore such an odd coincidence ? We followed our instinct. The next day we wrote together what would become our first hit, "Who let the leash out (woo woo woo)". And we made a promise to follow our musical dream.</p>
+  		<p>Four years, one album, several opening acts, a few trips abroad and a lot of magical encounters later, we're still creating experimental sound with the same passion. Our next common goal is to meet you. We can't wait to start our international tour, because this is why we play. We can't wait to share our new discoveries with you, because this is how we play.</p>
   	</section>
 
 
