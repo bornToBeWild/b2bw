@@ -175,6 +175,7 @@ div.hometube iframe {
 
 .tour_pair {
   background-color: white;
+  padding:10px;
 }
 
 .tour_pair p {
@@ -183,6 +184,7 @@ div.hometube iframe {
 
 .tour_impair {
   background-color: black;
+  padding:10px;
 }
 
 .tour_impair p {
