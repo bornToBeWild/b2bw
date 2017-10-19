@@ -8,8 +8,8 @@
 
   <div class="white_box">
     <section class="theband">
-	    <h2>About our inner animals</h2>
-		<img src="" alt="Photo du group">
+	    <h2>ABOUT OUR INNER ANIMALS</h2>
+		<img src="assets/pictures/members/theband.jpg" alt="Photo du group">
   	</section>
 
   	<section class="story">
@@ -17,41 +17,47 @@
   		<p>Four years, one album, several opening acts, a few trips abroad and a lot of magical encounters later, we're still creating experimental sound with the same passion. Our next common goal is to meet you. We can't wait to start our international tour, because this is why we play. We can't wait to share our new discoveries with you, because this is how we play.</p>
   	</section>
 
+  	<br />
+  	<br />
+  	<br />
 
   	<!-- The members -->
   	<section class="members">
 
-  		<div class="container">
 
   		<div class ="container container_custom">
 			<div class="row row_custom">
-				<div class="col-md-4 col-xs-offset-1 col-xs-10 col_member">
-					<figure class="member1">
-			  			<img src="" alt="">
-			  			<figcaption><br /></figcaption>
+				<div class="col-md-3 col-xs-offset-1 col-xs-10 col_member">
+					<figure>
+			  			<img src="assets/pictures/members/fawn.jpg" alt="">
+			  			<figcaption> Patsy 'Bambi' Walker, our solo guitarist.</figcaption>
 			  		</figure>
 				</div>
 
-				<div class="col-md-offset-4 col-xs-offset-1 col-xs-10 col_member">
-					<figure class="member2">
-			  			<img src="" alt="">
-				<figcaption>Val </figcaption>
-				</figure>
+				<div class="col-md-offset-2 col-md-3 col-xs-offset-1 col-xs-10 col_member">
+			  		<figure>
+			  			<img src="assets/pictures/members/ane-pola.jpg" alt="">
+			  			<figcaption>Claire 'Eeyore' Temple, our drummer.</figcaption>
+			  		</figure>	
 				</div>
 			</div>
 
+
+			<br />
+			<br />
+
 			<div class="row row_custom">
-				<div class="col-md-4 col-xs-offset-1 col-xs-10 col_member">
-					<figure class="member3">
-			  			<img src="" alt="">
-			  			<figcaption></figcaption>
+				<div class="col-md-3 col-xs-offset-1 col-xs-10 col_member">
+					<figure>
+			  			<img src="assets/pictures/members/cat-polaroid.jpg" alt="">
+			  			<figcaption>Misty 'Duchess' Knight, our singer.</figcaption>
 			  		</figure>
 				</div>
 
-				<div class="col-md-offset-4 col-xs-offset-1 col-xs-10 col_member">
-					<figure class="member4">
-			  			<img src="" alt="">
-			  			<figcaption></figcaption>
+				<div class="col-md-offset-2 col-md-3 col-xs-offset-1 col-xs-10 col_member">
+					<figure>
+			  			<img src="assets/pictures/members/truc-polaroid.jpeg" alt="">
+			  			<figcaption>Jessica 'Sleepy' Jones, our bassist.</figcaption>
 			  		</figure>
 				</div>
 			</div>
@@ -60,6 +66,10 @@
 	  	</div>
  
   	</section>
+
+  	<br />
+  	<br />
+  	<br />
 
   </div>
 

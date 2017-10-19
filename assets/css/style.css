@@ -202,6 +202,25 @@ div.hometube iframe {
 }
 
 
+/* **********ABOUT********** */
+
+.theband h2 {
+	font-family: 'Quicksand', sans-serif;
+	font-size: 1.9;
+}
+
+.col_member img {
+	width: 400px;
+}
+
+.col_member figcaption {
+	font-family: 'Abel', sans-serif;
+	font-size: 1em;
+	text-align: center;
+}
+
+
+
 /*  Footer */
 
 
