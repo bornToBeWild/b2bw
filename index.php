@@ -8,3 +8,5 @@ include("includes/home-news.php");
 include("includes/newsletter.php");
 include("includes/footer.php");
 ?>
+
+<? include("script.php"); ?>
