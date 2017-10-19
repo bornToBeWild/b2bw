@@ -297,6 +297,7 @@ h2 {font-family: Quicksand}
 .mediapage h2 {
 	color: #f2f7d9;
 	text-transform: uppercase;
+	margin: 1vw;
 }
 
 .mediapage-images img {
