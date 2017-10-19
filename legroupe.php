@@ -35,8 +35,8 @@
 				<div class="col-md-offset-4 col-xs-offset-1 col-xs-10 col_member">
 					<figure class="member2">
 			  			<img src="" alt="">
-			  			<figcaption>Val </figcaption>
-			  		</figure>
+				<figcaption>Val </figcaption>
+				</figure>
 				</div>
 			</div>
 
