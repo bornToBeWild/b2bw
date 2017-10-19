@@ -37,7 +37,7 @@
 				<div class="footer_box col-md-3 hiddenbox">
 					<p> </p>
 					<p><a href="https://www.facebook.com/" target="_blank">Facebook</a></p>
-					<p><a href="https://www.instagram.com/?hl=fr" target="_blank"></p>
+					<p><a href="https://www.instagram.com/?hl=fr" target="_blank">Instagram</a></p>
 					<p> </p>
 				</div>
 

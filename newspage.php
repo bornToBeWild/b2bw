@@ -1,20 +1,13 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title></title>
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-
-	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
-
-	<!--Fonts-->
-	<link href="https://fonts.googleapis.com/css?family=Abel|Amatic+SC|Josefin+Sans|Quicksand|Yanone+Kaffeesatz" rel="stylesheet">
-	
-</head>
+<?php
+include ("includes/header.php");
+include("includes/home-social.php");
+include("includes/navbar.php");
+?>
 
 
 	<section>
 
-		<div class="newspage_container container">
+		<div class="newspage_container container white_box">
 
 			<!-- ROW 1 -->
 
@@ -26,7 +19,7 @@
 
 					<div class="newspage col-md-12">
 
-				 		<h3>Titre News 1</h3>
+				 		<h3 id="news1">Titre News 1</h3>
 
 				 		<div class="picture_news">
 
@@ -42,13 +35,13 @@
 
 			<!-- ROW 2 -->
 
-			<div class="newspage_row row2"></div>
+			<div class="newspage_row row2">
 
 					<!-- COL -->
 
 					<div class="newspage col-md-12">
 
-				 		<h3>Titre News 2</h3>
+				 		<h3 id="news2">Titre News 2</h3>
 
 				 		<div class="picture_news">
 
@@ -63,13 +56,13 @@
 					
 			<!-- ROW 3 -->
 
-			<div class="newspage_row row2"></div>
+			<div class="newspage_row row3">
 
 					<!-- COL -->
 
 					<div class="newspage col-md-12">
 
-						<h3>Titre News 3</h3>
+						<h3 id="news3">Titre News 3</h3>
 
 					 	<div class="picture_news">
 
@@ -85,13 +78,13 @@
 
 			<!-- ROW 4 -->
 
-			<div class="newspage_row row2"></div>
+			<div class="newspage_row row4">
 
 					<!-- COL -->
 
 					<div class="newspage col-md-12">
 
-						<h3>Titre News 4</h3>
+						<h3 id="news4">Titre News 4</h3>
 
 					 	<div class="picture_news">
 
@@ -109,3 +102,5 @@
 		</div>
 
 	</section>
+
+<?php include("includes/footer.php");?>
