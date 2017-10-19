@@ -1,5 +1,5 @@
 			<section class="cover-section">
 				<div>
-					<img src="assets/pictures/coverlogo.jpg" alt="BornToBeWild Cover Picture"/>
+					<img src="assets/pictures/logo.png" alt="BornToBeWild logo"/>
 				</div>
 			</section>
