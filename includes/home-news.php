@@ -19,7 +19,7 @@
 						<img src="assets/pictures/homepage_news/Wild1.jpg" alt="Steppenwolf">
 						<p>Born to be Wild Merchandise</p>
 						<p>From now on you can order your Born to be Wild merch...
-						<a href="newspage.php" class="readmore">[+]</a>
+						<a href="newspage.php#news1" class="readmore">[+]</a>
 						</p>
 					</div>
 
@@ -36,7 +36,7 @@
 						<img src="assets/pictures/homepage_news/Wild2.jpg" alt="Lou Reed">
 						<p>Official Born to be Wild web site launches!</p>
 						<p>A brand new album calls for a brand new site...
-						<a href="newspage.php" class="readmore">[+]</a>
+						<a href="newspage.php#news2" class="readmore">[+]</a>
 						</p>
 					</div>
 
@@ -67,7 +67,7 @@
 						<img src="assets/pictures/homepage_news/Wild3.jpg" alt="LP">
 						<p>Born to be Wild Merchandise</p>
 						<p>From now on you can order your Born to be Wild merch...
-						<a href="newspage.php" class="readmore">[+]</a>
+						<a href="newspage.php#news3" class="readmore">[+]</a>
 						</p>
 					</div>
 				
@@ -85,7 +85,7 @@
 						<img src="assets/pictures/homepage_news/Wild4.jpg" alt="Wild Records">
 						<p>Official Born to be Wild web site launches!</p>
 						<p>A brand new album calls for a brand new site...
-						<a href="newspage.php" class="readmore">[+]</a>
+						<a href="newspage.php#news4" class="readmore">[+]</a>
 						</p>
 					</div>
 
