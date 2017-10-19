@@ -7,10 +7,15 @@
 <body>
 
   <div class="white_box">
+	<br />
+	<br />
     <section class="theband">
 	    <h2>ABOUT OUR INNER ANIMALS</h2>
-		<img src="assets/pictures/members/theband.jpg" alt="Photo du group">
+		<img class="bnwpic"src="assets/pictures/members/theband.jpg" alt="Black and white picture of the band onstage, with a large audience">
   	</section>
+
+  	<br />
+  	<br />
 
   	<section class="story">
   		<p><span class="everything">Everything happens for a reason.</span> When we met during a casual Halloween party in 2013, we immediatly connected with each others. Four musicians wearing animal costumes and craving for an opportunity to let our inner animals out - how could we ignore such an odd coincidence ? We followed our instinct. The next day we wrote together what would become our first hit, "Who let the leash out (woo woo woo)". And we made a promise to follow our musical dream.</p>
@@ -29,15 +34,15 @@
 			<div class="row row_custom">
 				<div class="col-md-3 col-xs-offset-1 col-xs-10 col_member">
 					<figure>
-			  			<img src="assets/pictures/members/fawn.jpg" alt="">
-			  			<figcaption> Patsy 'Bambi' Walker, our solo guitarist.</figcaption>
+			  			<img src="assets/pictures/members/fawn.jpg" alt="A sepia Polaroid picture of a band of adorable fawns">
+			  			<figcaption class="animal"> Patsy 'Bambi' Walker, our solo guitarist.</figcaption>
 			  		</figure>
 				</div>
 
 				<div class="col-md-offset-2 col-md-3 col-xs-offset-1 col-xs-10 col_member">
 			  		<figure>
-			  			<img src="assets/pictures/members/ane-pola.jpg" alt="">
-			  			<figcaption>Claire 'Eeyore' Temple, our drummer.</figcaption>
+			  			<img src="assets/pictures/members/ane-pola.jpg" alt="A heavily filtered Polaroid picture of two donkeys behind a thin barrier in the countryside">
+			  			<figcaption class="animal">Claire 'Eeyore' Temple, our drummer.</figcaption>
 			  		</figure>	
 				</div>
 			</div>
@@ -49,15 +54,15 @@
 			<div class="row row_custom">
 				<div class="col-md-3 col-xs-offset-1 col-xs-10 col_member">
 					<figure>
-			  			<img src="assets/pictures/members/cat-polaroid.jpg" alt="">
-			  			<figcaption>Misty 'Duchess' Knight, our singer.</figcaption>
+			  			<img src="assets/pictures/members/cat-polaroid.jpg" alt="A Polaroid picture of a yawning cat in ">
+			  			<figcaption class="animal">Misty 'Duchess' Knight, our singer.</figcaption>
 			  		</figure>
 				</div>
 
 				<div class="col-md-offset-2 col-md-3 col-xs-offset-1 col-xs-10 col_member">
 					<figure>
-			  			<img src="assets/pictures/members/truc-polaroid.jpeg" alt="">
-			  			<figcaption>Jessica 'Sleepy' Jones, our bassist.</figcaption>
+			  			<img src="assets/pictures/members/truc-polaroid.jpeg" alt="An overexposed Polaroid picture of a sleepy sea-lion on the beach by a sunny day">
+			  			<figcaption class="animal">Jessica 'Sleepy' Jones, our bassist.</figcaption>
 			  		</figure>
 				</div>
 			</div>

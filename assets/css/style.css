@@ -210,19 +210,29 @@ div.hometube iframe {
 
 /* **********ABOUT********** */
 
-.theband h2 {
-	font-family: 'Quicksand', sans-serif;
-	font-size: 1.9;
+.theband {
+	margin: auto;
+}
+
+.story p {
+	font-family: 'Abel', sans-serif;
+	font-size: 1.2em;
+	margin: auto;
+	width: 70%;
+}
+
+.everything {
+	font-weight: bold;
 }
 
 .col_member img {
 	width: 400px;
 }
 
-.col_member figcaption {
+.animal {
 	font-family: 'Abel', sans-serif;
-	font-size: 1em;
-	text-align: center;
+	font-size: 1.5em;
+	margin: auto;
 }
 
 
