@@ -247,6 +247,15 @@ div.hometube iframe {
 
 
 
+/*  About Us */
+.aboutus{
+	padding-top: 50px;
+	text-align: center;
+	justify-content: center;
+}
+
+/*  Homepage NEWS
+
 /* News-Page */
 
 .news_container {
