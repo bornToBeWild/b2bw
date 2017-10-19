@@ -263,3 +263,24 @@ figure {
 
 h2 {font-family: Quicksand}
 
+
+/*  Cover Logo.php */
+.cover-section-logo img {
+	height: 200px;
+	width: auto;
+}
+
+hr {
+	background-color: white;
+  	border: none;
+  	margin: auto;
+  	height: 33px;
+  	width: 100%;
+}
+
+
+/*  Page Media */
+.mediapage h2 {
+	color: #f2f7d9;
+}
+
