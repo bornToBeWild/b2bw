@@ -16,7 +16,7 @@
 
 			<div class="footer_row row2">
 
-				<div class="footer_box col-md-3">
+				<div class="footer_box col-md-3 hiddenbox">
 					<p><a href="includes/index.php">Home</a></p>
 					<p><a href="about.php">About Us</a></p>
 					<p><a href="newspage.php">News</a></p>
@@ -34,7 +34,7 @@
 
 			<!-- ROW2 COL 3 VIDE / Facebook / Instagram / VIDE -->
 
-				<div class="footer_box col-md-3">
+				<div class="footer_box col-md-3 hiddenbox">
 					<p> </p>
 					<p><a href="https://www.facebook.com/" target="_blank">Facebook</a></p>
 					<p><a href="https://www.instagram.com/?hl=fr" target="_blank"></p>
@@ -45,7 +45,7 @@
 
 			<!-- ROW2 COL 4 VIDE / Twitter / Spotify / VIDE -->
 
-				<div class="footer_box col-md-3">
+				<div class="footer_box col-md-3 hiddenbox">
 					<p> </p>
 					<p><a href="https://twitter.com/?lang=fr" target="_blank">Twitter</a></p>			
 					<p><a href="https://www.spotify.com/fr/" target="_blank">Spotify</a></p>
