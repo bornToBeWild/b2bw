@@ -33,6 +33,7 @@ body { background-image: url(../../assets/pictures/background.jpg);}
     display: flex;
     flex-direction: row;
     padding-top: 5px;
+    margin-left: 20px;
  }
 
 /* Hover on social buttons */
@@ -62,10 +63,16 @@ body { background-image: url(../../assets/pictures/background.jpg);}
     color: #f2f7d9;
 }
 /*  p "ON TOUR" */
+
+.container-cover {
+    padding: 0;
+    margin-right: auto;
+    margin-left: auto;
+}
 .ontour {
 	position: absolute;
-	top: 760px;
-	right: 200px;
+	top: 800px;
+	
 	font-family: 'Quicksand';
 	font-size: 60px;
 	text-align: right;
@@ -73,16 +80,15 @@ body { background-image: url(../../assets/pictures/background.jpg);}
 	text-transform: uppercase;
 	background-color: black;
 	color: #f2f7d9;
-	width: 315px;
+	width: 25.6vw;
 	padding-right: 15px;
-	margin: 0px;
 }
 
 /*  p "SEE US..."*/
 .seeus {
 	position: absolute;
-	top: 850px;
-	right: 200px;
+	top: 895px;
+	
 	font-family: 'Quicksand';
 	font-size: 30px;
 	text-align: right;
@@ -102,7 +108,7 @@ body { background-image: url(../../assets/pictures/background.jpg);}
 
 /*  Youtube video */
 
-.col-md-offset-2 {
+.hometube .col-md-offset-2 {
     margin-left: 0;
 }
 
@@ -256,3 +262,4 @@ figure {
 /* Typos */
 
 h2 {font-family: Quicksand}
+
