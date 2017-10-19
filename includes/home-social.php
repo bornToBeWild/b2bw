@@ -1,10 +1,11 @@
-<section class="social-buttons-section container-fluid">
-        <div id="social-container" class="row">
-          <div class="social col-md-offset-1">
-            <a href="https://www.facebook.com/" target="_blank">
-              <img src="assets/pictures/socialIcon/pictofb.jpg" alt="Facebook pictogram"/>
-            </a> 
-          </div>
+<section class="social-buttons-section container">
+      <div class="social-container">
+         <div class="row">
+            <div class="social">
+              <a href="https://www.facebook.com/" target="_blank">
+                <img src="assets/pictures/socialIcon/pictofb.jpg" alt="Facebook pictogram"/>
+              </a> 
+            </div>
 
               <div class="social">
                 <a href="https://twitter.com/?lang=fr" target="_blank">
@@ -23,6 +24,6 @@
                   <img src="assets/pictures/socialIcon/pictospotify.jpg" alt="Spotify pictogram"/>
                 </a> 
               </div>
-
             </div>
-      </section>
+        </div>
+   </section>
