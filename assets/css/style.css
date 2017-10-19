@@ -226,13 +226,15 @@ div.hometube iframe {
 }
 
 .col_member img {
-	width: 400px;
+	width: 360px;
+	margin: 0;
 }
 
 .animal {
 	font-family: 'Abel', sans-serif;
-	font-size: 1.5em;
-	margin: auto;
+	font-size: 1.3em;
+	text-align: center;
+	font-weight: bold
 }
 
 
