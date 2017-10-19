@@ -9,7 +9,7 @@
   <div class="white_box">
     <section class="theband">
 	    <h2>About our inner animals</h2>
-		<img src="" alt="">
+		<img src="" alt="Photo du group">
   	</section>
 
   	<section class="story">
