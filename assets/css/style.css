@@ -241,6 +241,15 @@ footer {
 
 .with_love .withloveText {color: #5FC0C5;}
 
+
+
+/*  About Us */
+.aboutus{
+	padding-top: 50px;
+	text-align: center;
+	justify-content: center;
+}
+
 /*  Homepage NEWS */
 
 .hpnews_container {
