@@ -247,6 +247,12 @@ div.hometube iframe {
 	text-decoration: none;
 }
 
+@media screen and (max-width: 300px) {
+	.hiddenbox {
+		display: none;
+	}
+}
+
 
 /*  Homepage NEWS */
 
