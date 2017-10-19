@@ -32,7 +32,7 @@ body { background-image: url(../../assets/pictures/background.jpg);}
 .row { margin-left: 0;}
 
 .social-container div {
-    padding-top: 3px;
+    padding: 4px;
     display: inline-block;
     padding-left: 0;
  }
@@ -42,8 +42,8 @@ body { background-image: url(../../assets/pictures/background.jpg);}
 
 /*  Images sizing social icones */
 .social-buttons-section img {
-	width: 50px;
-	height: 50px;
+	width: 40px;
+	height: 40px;
 }
 
 /*  Images sizing & position cover */
