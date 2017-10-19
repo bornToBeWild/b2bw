@@ -1,5 +1,5 @@
-<section class="social-buttons-section container">
-      <div class="social-container">
+<section class="social-buttons-section">
+      <div class="social-container container">
          <div class="row">
             <div class="social">
               <a href="https://www.facebook.com/" target="_blank">

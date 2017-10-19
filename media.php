@@ -12,7 +12,7 @@
 			<h2>Check out our latest videos</h2>
 			<div class= "container-fluid container-video">
 				<div class= "row row-video">
-					<div class="col-md-6 ">
+					<div class="col-md-6 col_video">
 						<iframe id="ytplayer" type="text/html" width="560" height="315" src="https://www.youtube.com/embed/xm5DPlNCmtk?autoplay=0&" frameborder="0" allowfullscreen>
 						</iframe>
 					</div>	
@@ -43,6 +43,9 @@
 					<div class="col-md-3 col-xs-6">
 						<img src="assets/pictures/pictures_media/doigt.jpg" alt="picture of a festival crowd">
 					</div>
+				</div>
+
+				<div class= "row row-images">
 					<div class="col-md-3 col-xs-6">
 						<img src="assets/pictures/pictures_media/Electrobeach.jpg" alt="picture of a festival crowd">
 					</div>
@@ -59,3 +62,12 @@
 			</div>
 	</section>
 </body>
+
+<?php include('includes/footer.php'); ?>
+
+<!-- JQuery -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js">
+</script> 
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
