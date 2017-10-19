@@ -246,24 +246,26 @@ div.hometube iframe {
 }
 
 
+/* Newspage */
 
-/* News-Page */
+.news_container {width: 100%;}
 
-.news_container {
-	display: flex;
-	flex-direction: column;
-	border: solid black 1px;
-}
+h2 {text-align: center;}
 
-.newspicture {
-	width: 700px;
-	height: 400px;
+.picture_news img {
+	width: 900px;
 	padding-top: 20px;
 }
 
-figure {
-	width: 750px;
-	height: 500px;
+.picture_news p {padding-top: 20px;}
+
+.picture_news {
+	text-align: center;
+	padding-top: 10px;
+}
+
+.newspage h3 {
+	text-align: center;
 }
 
 /* Typos */
