@@ -1,0 +1,299 @@
+/* Body */
+
+body { background-image: url(../../assets/pictures/background.jpg);}
+
+
+/* Navbar */
+.navbar{
+	border-radius: 0px;
+	margin-bottom: 0px;
+}
+
+.navbar-inverse .navbar-brand {
+	color: #5FC0C5;
+	font-family: 'Amatic SC';
+	font-size: 28px;
+	font-weight: 900;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+	color:#5FC0C5;
+	font-family: 'Amatic SC';
+	font-size: 24px;
+	font-weight: 900;
+}
+
+/* Flexbox social buttons */
+
+.social-buttons-section{ background-color: white; }
+
+.row { margin-left: 0; }
+
+.social-container {
+    display: inline-block;
+    padding-top: 5px;
+    margin-left: 20px;
+ }
+
+/* Hover on social buttons */
+.social:hover {opacity: 0.7;}
+
+/*  Images sizing social icones */
+.social-buttons-section img {
+	width: 50px;
+	height: 50px;
+}
+
+/*  Images sizing & position cover */
+.cover-section img {
+	width: 100vw;
+	height: auto;
+	margin: 0px;
+	position: relative;
+}
+
+/* conver section logo */
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+/*  p in cover section*/
+.cover-section p {
+    margin: 0 0 0px;
+}
+
+/*  a in cover section*/
+.cover-section a {
+    color: #f2f7d9;
+}
+/*  p "ON TOUR" */
+
+.container-cover {
+    padding: 0;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.ontour, .seeus {
+	position: relative;
+	font-family: 'Quicksand';
+	text-align: right;
+	font-weight: bold;
+	text-transform: uppercase;
+	background-color: black;
+	color: #f2f7d9;
+
+}
+.ontour {
+	top: -8vw;
+	font-size: 60px;
+	width: 24.6vw;
+	padding-right: 15px;
+}
+
+/*  p "SEE US..."*/
+.seeus {
+	top: -7vw;
+	
+	font-family: 'Quicksand';
+	font-size: 30px;
+	text-align: right;
+	font-weight: bold;
+	text-transform: uppercase;
+	background-color: black;
+	color: #f2f7d9;
+	width: 970px;
+	padding-right: 15px;
+}
+
+/*  p "SEE US..." when hover*/
+.seeus a:hover{
+	color: #5FC0C5;
+	text-decoration: none;
+}
+
+/*  Youtube video */
+
+.hometube .col-md-offset-2 {
+    margin-left: 0;
+}
+
+#tubecontainer {
+	width:100%;
+    float:left;
+    text-align:center;
+}
+
+div.hometube iframe {
+	width: 640px;
+    height: 360px;
+    margin-top: 20px;	
+}
+
+/*contact page */
+.white_box{
+	background-color: rgba(255, 255, 255, 0.9);
+	width: 80%;
+	margin: auto;
+}
+.contact{
+	padding-top: 50px;
+	text-align: center;
+	justify-content: center;
+}
+
+/* Agenda */
+
+.agenda {
+  width: 300px;
+}
+
+.agenda p {
+  font-family: 'Abel';
+  font-size: 1.5em;
+}
+
+.tour_pair {
+  background-color: white;
+}
+
+.tour_pair p {
+  color: black;
+}
+
+.tour_impair {
+  background-color: black;
+}
+
+.tour_impair p {
+  color: white;
+}
+
+.date {
+  font-size: 1.7em;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.more {
+  display: none;
+}
+
+.see {
+  color: black;
+  font-family: 'Abel';
+  font-style: italic;
+  font-weight: 700;
+  font-size: 1.2em;
+}
+
+
+/*  Footer */
+
+
+.footer_container {
+	background-color: black;
+	opacity: 0.8;
+	position: absolute;
+	width: 100%;
+}
+
+.heart {
+	color: red;
+	font-size: 18px;
+}
+
+.année {
+	font-size: 12px;
+}
+
+.footer_box p {
+	text-align: center;
+	line-height: 15px;
+}
+
+.footer_box p a {
+	font-size: 1.1em;
+	font-family: 'Amatic SC';
+	color: #5FC0C5;
+}
+
+.footer_box a:hover {
+	text-decoration: none;
+	color: white;
+}
+
+.footer_box a:active {
+	color: #5FC0C5;
+	text-decoration: none;
+}
+
+.footer_box a:focus {
+	color: #5FC0C5;
+	text-decoration: none;
+}
+
+
+/*  Homepage NEWS */
+
+.hpnews_container { width: 100%;}
+
+.hpnews_row h2 {text-align: center;}
+
+.picture_wild img {
+	height: 300px;
+	padding-top: 20px;
+}
+
+.picture_wild {
+	text-align: center;
+	padding-top: 10px;
+}
+
+
+/* Newspage */
+
+.news_container {width: 100%;}
+
+newspage_row h2 {text-align: center;}
+
+.picture_news img {
+	width: 900px;
+	padding-top: 20px;
+}
+
+.picture_news p {padding-top: 20px;}
+
+.picture_news {
+	text-align: center;
+	padding-top: 10px;
+}
+
+.newspage h3 {
+	text-align: center;
+}
+
+/* Typos */
+
+h2 {font-family: Quicksand}
+
+ 
+/*  Cover Logo.php */
+.cover-section-logo img {
+	height: 300px;
+	width: auto;
+	text-align: center;
+}
+
+/*  Page Media */
+.mediapage h2 {
+	color: #f2f7d9;
+	text-transform: uppercase;
+}
+
+.mediapage-images img {
+	width: 100%;
+	
+}
+
