@@ -52,6 +52,12 @@ body { background-image: url(../../assets/pictures/background.jpg);}
 	position: relative;
 }
 
+/* conver section logo */
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 /*  p in cover section*/
 .cover-section p {
     margin: 0 0 0px;
@@ -282,7 +288,7 @@ h2 {font-family: Quicksand}
  
 /*  Cover Logo.php */
 .cover-section-logo img {
-	height: 200px;
+	height: 300px;
 	width: auto;
 	text-align: center;
 }
