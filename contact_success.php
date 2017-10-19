@@ -6,7 +6,7 @@
 <body>
 
 <section class="contact">
-    <h1>Contact us</h1>
+    <h2>Contact us</h2>
     <p>Please contact us for any information.</p>
   </section>
 

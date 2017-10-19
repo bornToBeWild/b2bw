@@ -1,6 +1,6 @@
-<section class="social-buttons-section">
-        <div id="social-container">
-          <div class="social">
+<section class="social-buttons-section container-fluid">
+        <div id="social-container" class="row">
+          <div class="social col-md-offset-1">
             <a href="https://www.facebook.com/" target="_blank">
               <img src="assets/pictures/socialIcon/pictofb.jpg" alt="Facebook pictogram"/>
             </a> 
