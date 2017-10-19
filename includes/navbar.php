@@ -15,7 +15,7 @@
             <li><a href="legroupe.php">About us</a></li>
             <li><a href="newspage.php">News</a></li>
             <li><a href="media.php">Media</a></li>
-            <li><a href="#contact.php">Contact us</a></li>
+            <li><a href="contact.php">Contact us</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
