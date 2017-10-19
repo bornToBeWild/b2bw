@@ -2,6 +2,12 @@
 
 body { background-image: url(../../assets/pictures/background.jpg);}
 
+h2 {
+	font-family: Quicksand;
+	text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 3vw;
+}
 
 /* Navbar */
 .navbar{
@@ -286,22 +292,40 @@ div.hometube iframe {
 .newspage h3 {
 	text-align: center;
 }
-
-/* Typos */
-
-h2 {font-family: Quicksand}
-
  
-
 /*  Page Media */
 .mediapage h2 {
 	color: #f2f7d9;
 	text-transform: uppercase;
-	margin: 1vw;
+	text-align: center;
+	margin-bottom: 3vw;
 }
 
 .mediapage-images img {
-	width: 100%;
+	width: 23vw;
+	border: dotted 1px white;
+	max-height: 10vh;
 	
 }
+
+.mediapage iframe {
+	border: dotted 1px white;
+	text-align: center;
+}
+
+.row-video {
+	margin-left: 4vw;
+	padding: 0;
+}
+
+.col-video div {
+
+}
+
+.row-images {
+	
+}
+
+
+
 
