@@ -25,14 +25,16 @@ body { background-image: url(../../assets/pictures/background.jpg);}
 
 /* Flexbox social buttons */
 
-.social-buttons-section{ background-color: white; }
+.social-buttons-section { 
+	background-color: white;
+}
 
-.row { margin-left: 0; }
+.row { margin-left: 0;}
 
-.social-container {
+.social-container div {
+    padding-top: 3px;
     display: inline-block;
-    padding-top: 5px;
-    margin-left: 20px;
+    padding-left: 0;
  }
 
 /* Hover on social buttons */
@@ -83,28 +85,23 @@ img.center {
 	text-transform: uppercase;
 	background-color: black;
 	color: #f2f7d9;
+	padding-right: 15px;
+	right: 16vw;
+	float: right;
 
 }
 .ontour {
 	top: -8vw;
-	font-size: 60px;
-	width: 24.6vw;
-	padding-right: 15px;
+	font-size: 4vw;
+	width: 21.6vw;
+	
 }
 
 /*  p "SEE US..."*/
 .seeus {
 	top: -7vw;
-	
-	font-family: 'Quicksand';
-	font-size: 30px;
-	text-align: right;
-	font-weight: bold;
-	text-transform: uppercase;
-	background-color: black;
-	color: #f2f7d9;
-	width: 970px;
-	padding-right: 15px;
+	font-size: 2vw;
+	width: 66vw;
 }
 
 /*  p "SEE US..." when hover*/
