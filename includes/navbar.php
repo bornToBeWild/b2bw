@@ -14,7 +14,7 @@
             <li><a href="#home">Home</a></li>
             <li><a href="#about">About us</a></li>
             <li><a href="#news">News</a></li>
-            <li><a href="#media">Media</a></li>
+            <li><a href="media.php">Media</a></li>
             <li><a href="#contact">Contact us</a></li>
           </ul>
         </div><!--/.nav-collapse -->

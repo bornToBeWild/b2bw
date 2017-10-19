@@ -1,16 +1,17 @@
 <?php include('includes/header.php'); ?>
 <?php include('includes/home-social.php'); ?>
 <?php include('includes/navbar.php'); ?>
-<?php include('includes/home-section-header.php'); ?>
+<?php include('includes/coverlogo.php'); ?>
 
 
 <body>
 
   <div class="white_box">
     <section class="contact">
-    <h1>Contact us</h1>
+    <h2>Contact us</h2>
     <p>Please contact us for any information.</p>
   </section>
+  
     <form class="form-horizontal" method="post" action="contact_success.php">
       <fieldset>
 
