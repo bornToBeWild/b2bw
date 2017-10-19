@@ -13,7 +13,7 @@
   	</section>
 
   	<section class="story">
-  		<p></p>
+  		<p><span class="everything">Everything happens for a reason.</span>  </p>
   		<p></p>
   	</section>
 
