@@ -228,6 +228,11 @@ div.hometube iframe {
 	padding-bottom: 50px;
 }
 
+.theband img {
+	width: 100%;
+	height: 100%;
+}
+
 .theband h2 {
 	padding-bottom: 20px;
 }
@@ -246,35 +251,36 @@ div.hometube iframe {
 	font-weight: bold;
 }
 
+
+.members {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+
+.animalbox {
+	padding-bottom: 50px;
+}
+
+.col_member {
+	text-align: center;
+}
+
 .col_member img {
 	width: 100%;
-	margin: 0;
+	height: 100%;
+	max-width: 300px;
+	text-align: center;
 }
 
-.animal {
+.col_member p {
 	font-family: 'Abel', sans-serif;
 	font-size: 1.3em;
-	text-align: center;
-	font-weight: bold
+	font-weight: bold;
+	width: 100%;
+	padding-top: 10px;
 }
 
-@media screen and (max-width: 768px) {
-	.img_theband {
-		width: 20%;
-	}
-}
-
-@media screen and (min-width: 768px) and (max-width: 992px) {
-	.img_theband {
-		width: 65%;
-	}
-}
-
-@media screen and (min-width: 992px) {
-	.img_theband {
-		width: 55%;
-	}
-}
 
 
 /*  Footer */
