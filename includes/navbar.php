@@ -7,7 +7,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand navbar_custom" href="#">Born to be wild</a>
+          <a class="navbar-brand navbar_custom" href="index.php">Born to be wild</a>
         </div>
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav navbar_custom">
