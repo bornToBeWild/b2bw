@@ -396,17 +396,20 @@ div.hometube iframe {
 }
  
 /*  Page Media */
+
+.mediapage {
+	padding-top: 50px;
+}
 .mediapage h2 {
 	color: #333;
-	margin-top: 3vw;
-	margin-bottom: 3vw;
+	padding-bottom: 50px;
 }
 
 .mediapage h3 {
-	text-align: left;
 	font-size: 20px;
+	padding-bottom: 30px;
 }
-
+.mediapage
 .container-video {
 	padding: 0;
 }
@@ -415,7 +418,13 @@ div.hometube iframe {
 	margin: 0;
 }
 .col_video {
-	padding-left: 0;
+	text-align: center;
+	padding-top: 50px;
+}
+
+.mediapage-images{
+	padding-top: 50px;
+	padding-bottom: 50px;
 }
 
 .mediapage-images img {
@@ -434,7 +443,6 @@ div.hometube iframe {
 
 .container-images {
 	width: 80vw;
-    padding: 11vh;
     padding-left: 0;
     padding-top: 0;
 }
