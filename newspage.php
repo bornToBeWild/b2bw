@@ -18,7 +18,7 @@ include("includes/coverlogo.php");
 
 					<!-- COL -->
 
-					<div class="newspage col-md-12">
+					<div class="newspage col-md-12 col-xs-12">
 
 				 		<h3 id="news1">Titre News 1</h3>
 
@@ -40,7 +40,7 @@ include("includes/coverlogo.php");
 
 					<!-- COL -->
 
-					<div class="newspage col-md-12">
+					<div class="newspage col-md-12 col-xs-12">
 
 				 		<h3 id="news2">Titre News 2</h3>
 
@@ -61,7 +61,7 @@ include("includes/coverlogo.php");
 
 					<!-- COL -->
 
-					<div class="newspage col-md-12">
+					<div class="newspage col-md-12 col-xs-12">
 
 						<h3 id="news3">Titre News 3</h3>
 
@@ -83,7 +83,7 @@ include("includes/coverlogo.php");
 
 					<!-- COL -->
 
-					<div class="newspage col-md-12">
+					<div class="newspage col-md-12 col-xs-12">
 
 						<h3 id="news4">Titre News 4</h3>
 
