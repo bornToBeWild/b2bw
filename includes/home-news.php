@@ -9,7 +9,7 @@
 
 			<div class="hpnews_row row1">
 
-			<h2>News</h2>
+			<h2>Latest News</h2>
 
 			<!-- COL1 -->
 
@@ -19,7 +19,7 @@
 						<img src="assets/pictures/homepage_news/Wild1.jpg" alt="Steppenwolf">
 						<p>Born to be Wild Merchandise</p>
 						<p>From now on you can order your Born to be Wild merch...
-						<a href="newspage.php#news1" class="readmore">[+]</a>
+						<a href="newspage.php#news1" class="readmore">[Lire +]</a>
 						</p>
 					</div>
 
@@ -36,7 +36,7 @@
 						<img src="assets/pictures/homepage_news/Wild2.jpg" alt="Lou Reed">
 						<p>Official Born to be Wild web site launches!</p>
 						<p>A brand new album calls for a brand new site...
-						<a href="newspage.php#news2" class="readmore">[+]</a>
+						<a href="newspage.php#news2" class="readmore">[Lire +]</a>
 						</p>
 					</div>
 
@@ -67,7 +67,7 @@
 						<img src="assets/pictures/homepage_news/Wild3.jpg" alt="LP">
 						<p>Born to be Wild Merchandise</p>
 						<p>From now on you can order your Born to be Wild merch...
-						<a href="newspage.php#news3" class="readmore">[+]</a>
+						<a href="newspage.php#news3" class="readmore">[Lire +]</a>
 						</p>
 					</div>
 				
@@ -85,7 +85,7 @@
 						<img src="assets/pictures/homepage_news/Wild4.jpg" alt="Wild Records">
 						<p>Official Born to be Wild web site launches!</p>
 						<p>A brand new album calls for a brand new site...
-						<a href="newspage.php#news4" class="readmore">[+]</a>
+						<a href="newspage.php#news4" class="readmore">[Lire +]</a>
 						</p>
 					</div>
 
@@ -97,13 +97,54 @@
 
 		<!-- END ROW2 -->
 
+
+
+
+		<!-- ROW 3 -->
+
+			<div class="hpnews_row row3">
+
+			<!-- COL1 -->
+
+				<div class="hpnews_box col-md-6">
+
+					<div class="picture_wild">
+						<img src="assets/pictures/homepage_news/Wild1.jpg" alt="Steppenwolf">
+						<p>Born to be Wild Merchandise</p>
+						<p>From now on you can order your Born to be Wild merch...
+						<a href="newspage.php#news1" class="readmore">[Lire +]</a>
+						</p>
+					</div>
+
+				</div>
+
+			<!-- END COL1 -->
+
+
+			<!-- COL2 -->
+
+				<div class="hpnews_box col-md-6">
+
+					<div class="picture_wild">
+						<img src="assets/pictures/homepage_news/Wild2.jpg" alt="Lou Reed">
+						<p>Official Born to be Wild web site launches!</p>
+						<p>A brand new album calls for a brand new site...
+						<a href="newspage.php#news2" class="readmore">[Lire +]</a>
+						</p>
+					</div>
+
+				</div>
+
+			<!-- END COL2 -->
+
+			</div>
+
+		<!-- END ROW3 -->
+
+
+
 		</div>
 
-</div>
-
-
-
-
-
+	</div>
 
 	</section>

@@ -14,7 +14,7 @@ include("includes/coverlogo.php");
 
 			<div class="newspage_row row1">
 
-				<h2>Latest News</h2>
+				<h2>News</h2>
 
 					<!-- COL -->
 
