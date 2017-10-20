@@ -224,13 +224,22 @@ div.hometube iframe {
 
 .theband {
 	margin: auto;
+	padding-top: 50px;
+	padding-bottom: 50px;
 }
 
-.story p {
+.theband h2 {
+	padding-bottom: 20px;
+}
+
+
+.about p {
 	font-family: 'Abel', sans-serif;
 	font-size: 1.2em;
+	width: 66%;
 	margin: auto;
-	width: 70%;
+	padding-top: 20px;
+	padding-bottom: 20px;
 }
 
 .everything {
@@ -238,7 +247,7 @@ div.hometube iframe {
 }
 
 .col_member img {
-	width: 360px;
+	width: 100%;
 	margin: 0;
 }
 
@@ -249,6 +258,23 @@ div.hometube iframe {
 	font-weight: bold
 }
 
+@media screen and (max-width: 768px) {
+	.img_theband {
+		width: 20%;
+	}
+}
+
+@media screen and (min-width: 768px) and (max-width: 992px) {
+	.img_theband {
+		width: 65%;
+	}
+}
+
+@media screen and (min-width: 992px) {
+	.img_theband {
+		width: 55%;
+	}
+}
 
 
 /*  Footer */
