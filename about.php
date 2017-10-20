@@ -10,7 +10,7 @@
 	<!-- subtitle, cover picture and story of the band -->
     <section class="theband">
 	    <h2>ABOUT OUR INNER ANIMALS</h2>
-		<img class="img_theband center" src="assets/pictures/members/theband.jpg" alt="Black and white picture of the band onstage, playing in front of a large audience">
+		<img class="img_theband center" src="assets/pictures/pictures_about/img-born-to-be-wild-the-band-about.jpg" alt="Black and white picture of the band onstage, playing in front of a large audience">
 	</section>
 		
 	<section class="about">
