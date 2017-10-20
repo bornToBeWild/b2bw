@@ -22,6 +22,7 @@ include("includes/coverlogo.php");
 					<div class="newspage col-md-12 col-xs-12">
 
 				 		<h3 id="news1">Born to be Wild Merchandise</h3>
+				 		<h4>June 19, 2017</h4>
 
 				 		<div class="picture_news">
 
@@ -44,6 +45,7 @@ include("includes/coverlogo.php");
 					<div class="newspage col-md-12 col-xs-12">
 
 				 		<h3 id="news2">Official Born to be Wild web site launches!</h3>
+				 		<h4>Jul 01, 2016</h4>
 
 				 		<div class="picture_news">
 
@@ -65,6 +67,7 @@ include("includes/coverlogo.php");
 					<div class="newspage col-md-12 col-xs-12">
 
 						<h3 id="news3">Born to be Wild Merchandise</h3>
+				 		<h4>May 06, 2016</h4>
 
 					 	<div class="picture_news">
 
@@ -87,6 +90,7 @@ include("includes/coverlogo.php");
 					<div class="newspage col-md-12 col-xs-12">
 
 						<h3 id="news4">Official Born to be Wild web site launches!</h3>
+				 		<h4>December 23, 2015</h4>
 
 					 	<div class="picture_news">
 
@@ -108,6 +112,7 @@ include("includes/coverlogo.php");
 					<div class="newspage col-md-12 col-xs-12">
 
 				 		<h3 id="news5">Official Born to be Wild web site launches!</h3>
+				 		<h4>Jan 12, 2014</h4>
 
 				 		<div class="picture_news">
 
@@ -130,6 +135,7 @@ include("includes/coverlogo.php");
 					<div class="newspage col-md-12 col-xs-12">
 
 				 		<h3 id="news6">Official Born to be Wild web site launches!</h3>
+				 		<h4>Sept 30, 2014</h4>
 
 				 		<div class="picture_news">
 
