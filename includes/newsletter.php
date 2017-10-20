@@ -1,4 +1,4 @@
-<div class="newsletter"> 
+<div class="newsletter right_block"> 
 	<h2>JOIN THE NEWSLETTER</h2>
 		<div class="input-container">
 		<input type="text" placeholder="your email" class="email text-input">
