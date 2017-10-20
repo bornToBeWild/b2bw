@@ -346,7 +346,8 @@ div.hometube iframe {
 .hpnews_row h2 {text-align: center;}
 
 .picture_wild img {
-	height: 300px;
+	width: 100%;
+	height: 100%;
 	padding-top: 20px;
 }
 
@@ -356,9 +357,9 @@ div.hometube iframe {
 }
 
 .picture_wild p {
-	width: 290px;
+	width: 100%;
+	height: 100%;
 	padding-top: 10px;
-	padding-left: 25px;
 }
 
 /* Newspage */
@@ -368,11 +369,15 @@ div.hometube iframe {
 .newspage_row h2 {text-align: center;}
 
 .picture_news img {
-	width: 900px;
+	width: 100%;
+	height: 100%;
 	padding-top: 20px;
 }
 
-.picture_news p {padding-top: 20px;}
+.picture_news p {
+	width: 100%;
+	height: 100%;
+	padding-top: 20px;}
 
 .picture_news {
 	text-align: center;
