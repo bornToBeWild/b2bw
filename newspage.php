@@ -5,6 +5,7 @@ include("includes/navbar.php");
 include("includes/coverlogo.php");
 ?>
 
+<body>
 
 	<section>
 
@@ -146,4 +147,7 @@ include("includes/coverlogo.php");
 	</section>
 
 <?php include("includes/footer.php");?>
+
+</body>
+
 <?php include ("assets/js/script.php"); ?> 
