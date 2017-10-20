@@ -7,7 +7,7 @@
 			
 			<div class="footer_row row1">
 				<div class="footer_box col-md-12">
-					<p><a href="#>">Made with <span class="heart">love</span> by B2BW <br /><span class="année">2017<span></a><p>
+					<p><a href="#>">Made with <span class="heart">love</span> by B2BW <br /><span class="année">2017<span></a></p>
 				</div>
 			</div>
 
