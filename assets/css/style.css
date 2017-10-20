@@ -6,13 +6,11 @@ h2 {
 	font-family: Quicksand;
 	text-transform: uppercase;
     text-align: center;
-    font-size: 2vw;
 }
 
 h3 {
 	font-family: Quicksand;
 	text-transform: uppercase;
-	font-size: 1.4vw;
 }
 
 /* Navbar */
@@ -87,7 +85,6 @@ img.center{
 	}
 }
 
-
 /*  p in cover section*/
 .cover-section p {
     margin: 0 0 0px;
@@ -145,7 +142,7 @@ img.center{
 }
 
 #tubecontainer {
-	width:100%;
+	width: 100%;
     float:left;
     text-align:center;
 }
@@ -156,6 +153,13 @@ div.hometube iframe {
     margin-top: 20px;	
 }
 
+@media (max-width: 800px){
+div.hometube iframe {
+	width: 80%;
+	padding-left: 0;
+	margin-left: 0;
+	}
+}
 /*contact page */
 .white_box{
 	background-color: rgba(255, 255, 255, 0.9);
