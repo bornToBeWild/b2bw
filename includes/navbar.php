@@ -12,7 +12,7 @@
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav navbar_custom">
             <li><a href="index.php">Home</a></li>
-            <li><a href="legroupe.php">About us</a></li>
+            <li><a href="about.php">About us</a></li>
             <li><a href="newspage.php">News</a></li>
             <li><a href="media.php">Media</a></li>
             <li><a href="contact.php">Contact us</a></li>
