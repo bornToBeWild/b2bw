@@ -296,7 +296,7 @@ div.hometube iframe {
 	text-decoration: none;
 }
 
-@media screen and (max-width: 300px) {
+@media screen and (max-width: 768px) {
 	.hiddenbox {
 		display: none;
 	}
