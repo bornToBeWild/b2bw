@@ -8,27 +8,27 @@
 
   <div class="white_box">
     <section class="contact">
-    <h2>Contact us</h2>
-    <p>Please contact us for any information.</p>
-  </section>
-  
-    <form class="form-horizontal" method="post" action="contact_success.php">
+      <h2>Contact us</h2>
+      <p>Please contact us for any information.</p>
+    </section>
+
+    <form class="form-horizontal contact_us_form" method="post" action="">
       <fieldset>
 
         <!-- Name-->
         <div class="form-group">
-          <label class="col-md-4 control-label" for="textinput">Name</label>
+          <label class="col-md-4 control-label" for="name">Name</label>
           <div class="col-md-4">
-            <input id="textinput" name="textinput" placeholder="name" class="form-control input-md" required="" type="text">
+            <input id="name" name="name" placeholder="name" class="form-control input-md" required="" type="text">
 
           </div>
         </div>
 
         <!-- Email-->
         <div class="form-group">
-          <label class="col-md-4 control-label" for="textinput">Email</label>
+          <label class="col-md-4 control-label" for="email">Email</label>
           <div class="col-md-4">
-            <input id="textinput" name="textinput" placeholder="email" class="form-control input-md" required="" type="text">
+            <input id="email" name="email" placeholder="email" class="form-control input-md" required="" type="email">
 
           </div>
         </div>
@@ -39,12 +39,12 @@
           <div class="col-md-4">
             <div class="radio">
               <label for="radios-0">
-                <input name="radios" id="radios-0" value="1" checked="checked" type="radio"> yes
+                <input name="radios" id="radios-0" value="yes" checked="checked" type="radio"> yes
               </label>
             </div>
             <div class="radio">
               <label for="radios-1">
-                <input name="radios" id="radios-1" value="2" type="radio"> no
+                <input name="radios" id="radios-1" value="no" type="radio"> no
               </label>
             </div>
           </div>
@@ -62,20 +62,28 @@
         <div class="form-group">
           <label class="col-md-4 control-label" for="singlebutton"></label>
           <div class="col-md-4">
-            <button id="singlebutton" name="singlebutton" class="btn btn-default">Submit</button>
+            <button type="Submit" id="singlebutton" name="singlebutton" class="btn btn-default">Submit</button>
           </div>
         </div>
 
       </fieldset>
     </form>
+    <div class="alert alert-success alert-dismissable hide_alert">
+      <a href="#" class="close" data-dismiss="alert" aria-label="close">×</a>
+      <strong>Success!</strong> Your message have been sent.
+    </div>
   </div>
-<?php include('includes/footer.php'); ?>
+
+  <?php include('includes/footer.php'); ?>
 </body>
 
 
-<!-- JQuery -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js">
-</script> 
-
-<!-- Latest compiled and minified JavaScript -->
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<?php include ("assets/js/script.php");?> 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script>
+<script>
+$("button").click(function() {
+  $(div).toggleClass("show_alert");
+});
+</script>
+</script>
