@@ -12,7 +12,7 @@
       <p>Please contact us for any information.</p>
     </section>
 
-    <form class="form-horizontal contact_us_form" method="post" action="">
+    <form class="form-horizontal contact_us_form" method="post">
       <fieldset>
 
         <!-- Name-->
@@ -68,10 +68,14 @@
 
       </fieldset>
     </form>
-    <div class="alert alert-success alert-dismissable hide_alert">
+    <?php 
+    if (!(empty($_POST))){
+
+      echo '<div class="alert alert-success alert-dismissable">
       <a href="#" class="close" data-dismiss="alert" aria-label="close">×</a>
       <strong>Success!</strong> Your message have been sent.
-    </div>
+      </div>';
+    }; ?>
   </div>
 
   <?php include('includes/footer.php'); ?>
@@ -79,11 +83,3 @@
 
 
 <?php include ("assets/js/script.php");?> 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-<script>
-<script>
-$("button").click(function() {
-  $(div).toggleClass("show_alert");
-});
-</script>
-</script>
