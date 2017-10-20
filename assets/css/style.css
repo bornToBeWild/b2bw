@@ -394,7 +394,13 @@ div.hometube iframe {
 	text-align: center;
 	font-size: 1.4vw;
 }
- 
+
+.newspage h4 {
+	text-align: center;
+	font-size: 0.8vw;}
+
+#cache {display:none}
+
 /*  Page Media */
 
 .mediapage {

@@ -28,7 +28,7 @@ include("includes/coverlogo.php");
 
 				 			<img class="newspicture" src="assets/pictures/newsPage/News1.jpg" alt="Adrian Von Ziegler">
 
-			 				<p>On October 20th By Norse Music will digitally release a two track EP from Einar Selvik containing an acoustic version as well as the complete studio version of his much requested piece ‘Snake Pit Poetry’, originally written for History Channel’s TV series Vikings. The EP will also be available as a 10-inch vinyl with etched B-side, sold exclusively in Wardruna’s online stores and on their upcoming European tour.</p>			
+			 				<p>On October 20th By Norse Music will digitally release a two track EP from Einar Selvik containing an acoustic version as well as the complete studio version of his much requested piece ‘Snake Pit Poetry’, originally written for History Channel’s TV series Vikings. The EP will also be available as a 10-inch vinyl with etched B-side, sold exclusively in Wardruna’s online stores and on their upcoming European tour.</p>
 			 			</div>
 					</div>
 			</div>
@@ -51,7 +51,7 @@ include("includes/coverlogo.php");
 
 				 			<img class="newspicture" src="assets/pictures/newsPage/News2.jpg" alt="Nightwish">
 
-			 				<p>On October 20th By Norse Music will digitally release a two track EP from Einar Selvik containing an acoustic version as well as the complete studio version of his much requested piece ‘Snake Pit Poetry’, originally written for History Channel’s TV series Vikings. The EP will also be available as a 10-inch vinyl with etched B-side, sold exclusively in Wardruna’s online stores and on their upcoming European tour.</p>	
+			 				<p>On October 20th By Norse Music will digitally release a two track EP from Einar Selvik containing an acoustic version as well as the complete studio version of his much requested piece ‘Snake Pit Poetry’, originally written for History Channel’s TV series Vikings. The EP will also be available as a 10-inch vinyl with etched B-side, sold exclusively in Wardruna’s online stores and on their upcoming European tour.</p>
 			 			</div>
 					</div>
 			</div>
@@ -73,7 +73,7 @@ include("includes/coverlogo.php");
 
 					 		<img class="newspicture" src="assets/pictures/newsPage/News3.jpg" alt="Nightwish">
 
-				 			<p>On October 20th By Norse Music will digitally release a two track EP from Einar Selvik containing an acoustic version as well as the complete studio version of his much requested piece ‘Snake Pit Poetry’, originally written for History Channel’s TV series Vikings. The EP will also be available as a 10-inch vinyl with etched B-side, sold exclusively in Wardruna’s online stores and on their upcoming European tour.</p>	
+				 			<p>On October 20th By Norse Music will digitally release a two track EP from Einar Selvik containing an acoustic version as well as the complete studio version of his much requested piece ‘Snake Pit Poetry’, originally written for History Channel’s TV series Vikings. The EP will also be available as a 10-inch vinyl with etched B-side, sold exclusively in Wardruna’s online stores and on their upcoming European tour.</p>
 				 		</div>
 					</div>
 
@@ -96,7 +96,7 @@ include("includes/coverlogo.php");
 
 					 		<img class="newspicture" src="assets/pictures/newsPage/News4.jpg" alt="Rolling Stnes">
 
-				 			<p>On October 20th By Norse Music will digitally release a two track EP from Einar Selvik containing an acoustic version as well as the complete studio version of his much requested piece ‘Snake Pit Poetry’, originally written for History Channel’s TV series Vikings. The EP will also be available as a 10-inch vinyl with etched B-side, sold exclusively in Wardruna’s online stores and on their upcoming European tour.</p>	
+				 			<p>On October 20th By Norse Music will digitally release a two track EP from Einar Selvik containing an acoustic version as well as the complete studio version of his much requested piece ‘Snake Pit Poetry’, originally written for History Channel’s TV series Vikings. The EP will also be available as a 10-inch vinyl with etched B-side, sold exclusively in Wardruna’s online stores and on their upcoming European tour.</p>
 				 		</div>
 					</div>
 			</div>
@@ -118,7 +118,7 @@ include("includes/coverlogo.php");
 
 				 			<img class="newspicture" src="assets/pictures/newsPage/News2.jpg" alt="Nightwish">
 
-			 				<p>On October 20th By Norse Music will digitally release a two track EP from Einar Selvik containing an acoustic version as well as the complete studio version of his much requested piece ‘Snake Pit Poetry’, originally written for History Channel’s TV series Vikings. The EP will also be available as a 10-inch vinyl with etched B-side, sold exclusively in Wardruna’s online stores and on their upcoming European tour.</p>	
+			 				<p>On October 20th By Norse Music will digitally release a two track EP from Einar Selvik containing an acoustic version as well as the complete studio version of his much requested piece ‘Snake Pit Poetry’, originally written for History Channel’s TV series Vikings. The EP will also be available as a 10-inch vinyl with etched B-side, sold exclusively in Wardruna’s online stores and on their upcoming European tour.</p>
 			 			</div>
 					</div>
 			</div>
@@ -141,7 +141,7 @@ include("includes/coverlogo.php");
 
 				 			<img class="newspicture" src="assets/pictures/newsPage/News2.jpg" alt="Nightwish">
 
-			 				<p>On October 20th By Norse Music will digitally release a two track EP from Einar Selvik containing an acoustic version as well as the complete studio version of his much requested piece ‘Snake Pit Poetry’, originally written for History Channel’s TV series Vikings. The EP will also be available as a 10-inch vinyl with etched B-side, sold exclusively in Wardruna’s online stores and on their upcoming European tour.</p>	
+			 				<p>On October 20th By Norse Music will digitally release a two track EP from Einar Selvik containing an acoustic version as well as the complete studio version of his much requested piece ‘Snake Pit Poetry’, originally written for History Channel’s TV series Vikings. The EP will also be available as a 10-inch vinyl with etched B-side, sold exclusively in Wardruna’s online stores and on their upcoming European tour.</p>
 			 			</div>
 					</div>
 			</div>
