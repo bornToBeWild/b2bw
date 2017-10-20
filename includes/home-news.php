@@ -112,7 +112,7 @@
 						<img src="assets/pictures/homepage_news/Wild1.jpg" alt="Steppenwolf">
 						<p>Born to be Wild Merchandise</p>
 						<p>From now on you can order your Born to be Wild merch...
-						<a href="newspage.php#news1" class="readmore">[Lire +]</a>
+						<a href="newspage.php#news5" class="readmore">[Lire +]</a>
 						</p>
 					</div>
 
@@ -129,7 +129,7 @@
 						<img src="assets/pictures/homepage_news/Wild2.jpg" alt="Lou Reed">
 						<p>Official Born to be Wild web site launches!</p>
 						<p>A brand new album calls for a brand new site...
-						<a href="newspage.php#news2" class="readmore">[Lire +]</a>
+						<a href="newspage.php#news6" class="readmore">[Lire +]</a>
 						</p>
 					</div>
 

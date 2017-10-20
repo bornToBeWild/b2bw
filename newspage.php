@@ -20,13 +20,13 @@ include("includes/coverlogo.php");
 
 					<div class="newspage col-md-12 col-xs-12">
 
-				 		<h3 id="news1">Titre News 1</h3>
+				 		<h3 id="news1">Born to be Wild Merchandise</h3>
 
 				 		<div class="picture_news">
 
 				 			<img class="newspicture" src="assets/pictures/newsPage/News1.jpg" alt="Adrian Von Ziegler">
 
-			 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>			
+			 				<p>On October 20th By Norse Music will digitally release a two track EP from Einar Selvik containing an acoustic version as well as the complete studio version of his much requested piece ‘Snake Pit Poetry’, originally written for History Channel’s TV series Vikings. The EP will also be available as a 10-inch vinyl with etched B-side, sold exclusively in Wardruna’s online stores and on their upcoming European tour.</p>			
 			 			</div>
 					</div>
 			</div>
@@ -42,13 +42,13 @@ include("includes/coverlogo.php");
 
 					<div class="newspage col-md-12 col-xs-12">
 
-				 		<h3 id="news2">Titre News 2</h3>
+				 		<h3 id="news2">Official Born to be Wild web site launches!</h3>
 
 				 		<div class="picture_news">
 
 				 			<img class="newspicture" src="assets/pictures/newsPage/News2.jpg" alt="Nightwish">
 
-			 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>	
+			 				<p>On October 20th By Norse Music will digitally release a two track EP from Einar Selvik containing an acoustic version as well as the complete studio version of his much requested piece ‘Snake Pit Poetry’, originally written for History Channel’s TV series Vikings. The EP will also be available as a 10-inch vinyl with etched B-side, sold exclusively in Wardruna’s online stores and on their upcoming European tour.</p>	
 			 			</div>
 					</div>
 			</div>
@@ -63,13 +63,13 @@ include("includes/coverlogo.php");
 
 					<div class="newspage col-md-12 col-xs-12">
 
-						<h3 id="news3">Titre News 3</h3>
+						<h3 id="news3">Born to be Wild Merchandise</h3>
 
 					 	<div class="picture_news">
 
 					 		<img class="newspicture" src="assets/pictures/newsPage/News3.jpg" alt="Nightwish">
 
-				 			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>	
+				 			<p>On October 20th By Norse Music will digitally release a two track EP from Einar Selvik containing an acoustic version as well as the complete studio version of his much requested piece ‘Snake Pit Poetry’, originally written for History Channel’s TV series Vikings. The EP will also be available as a 10-inch vinyl with etched B-side, sold exclusively in Wardruna’s online stores and on their upcoming European tour.</p>	
 				 		</div>
 					</div>
 
@@ -85,20 +85,61 @@ include("includes/coverlogo.php");
 
 					<div class="newspage col-md-12 col-xs-12">
 
-						<h3 id="news4">Titre News 4</h3>
+						<h3 id="news4">Official Born to be Wild web site launches!</h3>
 
 					 	<div class="picture_news">
 
 					 		<img class="newspicture" src="assets/pictures/newsPage/News4.jpg" alt="Rolling Stnes">
 
-				 			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>	
+				 			<p>On October 20th By Norse Music will digitally release a two track EP from Einar Selvik containing an acoustic version as well as the complete studio version of his much requested piece ‘Snake Pit Poetry’, originally written for History Channel’s TV series Vikings. The EP will also be available as a 10-inch vinyl with etched B-side, sold exclusively in Wardruna’s online stores and on their upcoming European tour.</p>	
 				 		</div>
 					</div>
 			</div>
 
-			<!-- END ROW 2 -->
+			<!-- END ROW 4 -->
+
+			<!-- ROW 5 -->
+
+			<div class="newspage_row row5">
+
+					<!-- COL -->
+
+					<div class="newspage col-md-12 col-xs-12">
+
+				 		<h3 id="news5">Official Born to be Wild web site launches!</h3>
+
+				 		<div class="picture_news">
+
+				 			<img class="newspicture" src="assets/pictures/newsPage/News2.jpg" alt="Nightwish">
+
+			 				<p>On October 20th By Norse Music will digitally release a two track EP from Einar Selvik containing an acoustic version as well as the complete studio version of his much requested piece ‘Snake Pit Poetry’, originally written for History Channel’s TV series Vikings. The EP will also be available as a 10-inch vinyl with etched B-side, sold exclusively in Wardruna’s online stores and on their upcoming European tour.</p>	
+			 			</div>
+					</div>
+			</div>
+
+			<!-- END ROW 5 -->
 
 
+			<!-- ROW 6 -->
+
+			<div class="newspage_row row6">
+
+					<!-- COL -->
+
+					<div class="newspage col-md-12 col-xs-12">
+
+				 		<h3 id="news6">Official Born to be Wild web site launches!</h3>
+
+				 		<div class="picture_news">
+
+				 			<img class="newspicture" src="assets/pictures/newsPage/News2.jpg" alt="Nightwish">
+
+			 				<p>On October 20th By Norse Music will digitally release a two track EP from Einar Selvik containing an acoustic version as well as the complete studio version of his much requested piece ‘Snake Pit Poetry’, originally written for History Channel’s TV series Vikings. The EP will also be available as a 10-inch vinyl with etched B-side, sold exclusively in Wardruna’s online stores and on their upcoming European tour.</p>	
+			 			</div>
+					</div>
+			</div>
+
+			<!-- END ROW 6 -->
 
 		</div>
 
