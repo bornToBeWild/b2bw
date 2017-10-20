@@ -6,13 +6,11 @@ h2 {
 	font-family: Quicksand;
 	text-transform: uppercase;
     text-align: center;
-    font-size: 2vw;
 }
 
 h3 {
 	font-family: Quicksand;
 	text-transform: uppercase;
-	font-size: 1.4vw;
 }
 
 /* Navbar */
@@ -166,6 +164,18 @@ div.hometube iframe {
 	padding-top: 50px;
 	text-align: center;
 	justify-content: center;
+}
+.contact_us_form{
+	padding-top: 50px;
+	padding-bottom: 100px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.hide_alert{
+	display: none;
+}
+.show_alert{
+	display: block;
 }
 
 /* Agenda */
