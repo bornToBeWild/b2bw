@@ -18,7 +18,7 @@
 
 				<div class="footer_box col-md-3 hiddenbox">
 					<p><a href="index.php">Home</a></p>
-					<p><a href="legroupe.php">About Us</a></p>
+					<p><a href="about.php">About Us</a></p>
 					<p><a href="newspage.php">News</a></p>
 					<p><a href="media.php">Medias</a></p>
 				</div>
