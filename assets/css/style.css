@@ -171,6 +171,18 @@ div.hometube iframe {
 	text-align: center;
 	justify-content: center;
 }
+.contact_us_form{
+	padding-top: 50px;
+	padding-bottom: 100px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.hide_alert{
+	display: none;
+}
+.show_alert{
+	display: block;
+}
 
 /* Agenda */
 
