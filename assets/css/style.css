@@ -266,6 +266,10 @@ div.hometube iframe {
 	font-size: 12px;
 }
 
+.row1 .footer_box p {
+	padding-top: 10px;
+}
+
 .footer_box p {
 	text-align: center;
 	line-height: 15px;

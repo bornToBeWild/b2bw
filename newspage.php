@@ -2,6 +2,7 @@
 include ("includes/header.php");
 include("includes/home-social.php");
 include("includes/navbar.php");
+include("includes/coverlogo.php");
 ?>
 
 
@@ -104,3 +105,4 @@ include("includes/navbar.php");
 	</section>
 
 <?php include("includes/footer.php");?>
+<?php include ("assets/js/script.php"); ?> 
