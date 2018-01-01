@@ -10,7 +10,7 @@
 	<!-- subtitle, cover picture and story of the band -->
     <section class="theband">
 	    <h2>ABOUT OUR INNER ANIMALS</h2>
-		<img class="img_theband center" src="assets/pictures/members/theband.jpg" alt="Black and white picture of the band onstage, playing in front of a large audience">
+		<img class="img_theband center" src="assets/pictures/pictures_about/img-born-to-be-wild-the-band-about.jpg" alt="Black and white picture of the band onstage, playing in front of a large audience">
 	</section>
 		
 	<section class="about">
@@ -25,12 +25,12 @@
   		<div class ="container container_custom">
 			<div class="row row_custom animalbox">
 				<div class="col-md-offset-1 col-md-4 col-xs-offset-1 col-xs-10 col_member">
-			  			<img src="assets/pictures/members/fawn.jpg" alt="A sepia Polaroid picture of a band of adorable fawns">
+			  			<img src="assets/pictures/pictures_about/img-300-px-width-bambi-patsy-walker-fawn-polaroid.jpg" alt="A sepia Polaroid picture of a band of adorable fawns">
 			  			<p> Patsy 'Bambi' Walker, our solo guitarist</p>
 				</div>
 
 				<div class="col-md-offset-2 col-md-4 col-xs-offset-1 col-xs-10 col_member">
-			  			<img src="assets/pictures/members/ane-pola.jpg" alt="A heavily filtered Polaroid picture of two donkeys behind a thin barrier in the countryside">
+			  			<img src="assets/pictures/pictures_about/img-300-px-width-eeyore-claire-temple-donkey-polaroid.jpg" alt="A heavily filtered Polaroid picture of two donkeys behind a thin barrier in the countryside">
 			  			<p>Claire 'Eeyore' Temple, our drummer</p>
 				</div>
 			</div>
@@ -38,12 +38,12 @@
 
 			<div class="row row_custom animalbox">
 				<div class="col-md-offset-1 col-md-4 col-xs-offset-1 col-xs-10 col_member">
-			  			<img src="assets/pictures/members/cat-polaroid.jpg" alt="A Polaroid picture of a yawning cat in ">
+			  			<img src="assets/pictures/pictures_about/img-300-px-width-duchess-misty-knight-cat-polaroid.jpg" alt="A Polaroid picture of a yawning cat in ">
 			  			<p>Misty 'Duchess' Knight, our singer</p>
 				</div>
 
 				<div class="col-md-offset-2 col-md-4 col-xs-offset-1 col-xs-10 col_member">
-			  			<img src="assets/pictures/members/truc-polaroid.jpeg" alt="An overexposed Polaroid picture of a sleepy sea-lion on the beach by a sunny day">
+			  			<img src="assets/pictures/pictures_about/img-300-px-width-sleepy-jessica-jones-sea-lion-polaroid.jpg" alt="An overexposed Polaroid picture of a sleepy sea-lion on the beach by a sunny day">
 			  			<p>Jessica 'Sleepy' Jones, our bassist</p>
 				</div>
 			</div>

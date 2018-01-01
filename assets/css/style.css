@@ -139,6 +139,7 @@ img.center{
 
 .hometube .col-md-offset-2 {
     margin-left: 0;
+    padding-bottom: 100px;
 }
 
 #tubecontainer {
@@ -388,13 +389,20 @@ div.hometube iframe {
 .picture_news {
 	text-align: center;
 	padding-top: 30px;
+	padding-bottom: 30px;
 }
 
 .newspage h3 {
 	text-align: center;
 	font-size: 1.4vw;
 }
- 
+
+.newspage h4 {
+	text-align: center;
+	font-size: 0.8vw;}
+
+#cache {display:none}
+
 /*  Page Media */
 
 .mediapage {
@@ -442,7 +450,7 @@ div.hometube iframe {
 }
 
 .container-images {
-	width: 80vw;
+	/*width: 80vw;*/
     padding-left: 0;
     padding-top: 0;
 }
